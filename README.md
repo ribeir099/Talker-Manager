@@ -12,5 +12,4 @@ For this, an API was developed for a CRUD (Create, Read, Update and Delete) of s
 - Manipulate the Node.js
 - Manipulate the Express.js
 - Create Middlewares
-- Manipulate the MySQL
 - Build a API RESTful
